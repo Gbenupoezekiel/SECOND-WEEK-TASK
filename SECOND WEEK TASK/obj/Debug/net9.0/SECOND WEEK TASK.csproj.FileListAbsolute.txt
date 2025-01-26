@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\SECOND WEEK TASK\SECOND WEEK TASK\bin\Debug\net9.0\SECOND WEEK TASK.exe
+C:\Users\PC\Desktop\SECOND WEEK TASK\SECOND WEEK TASK\bin\Debug\net9.0\SECOND WEEK TASK.deps.json
+C:\Users\PC\Desktop\SECOND WEEK TASK\SECOND WEEK TASK\bin\Debug\net9.0\SECOND WEEK TASK.runtimeconfig.json
+C:\Users\PC\Desktop\SECOND WEEK TASK\SECOND WEEK TASK\bin\Debug\net9.0\SECOND WEEK TASK.dll
+C:\Users\PC\Desktop\SECOND WEEK TASK\SECOND WEEK TASK\bin\Debug\net9.0\SECOND WEEK TASK.pdb
+C:\Users\PC\Desktop\SECOND WEEK TASK\SECOND WEEK TASK\obj\Debug\net9.0\SECOND WEEK TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\SECOND WEEK TASK\SECOND WEEK TASK\obj\Debug\net9.0\SECOND WEEK TASK.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SECOND WEEK TASK\SECOND WEEK TASK\obj\Debug\net9.0\SECOND WEEK TASK.AssemblyInfo.cs
+C:\Users\PC\Desktop\SECOND WEEK TASK\SECOND WEEK TASK\obj\Debug\net9.0\SECOND WEEK TASK.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SECOND WEEK TASK\SECOND WEEK TASK\obj\Debug\net9.0\SECOND WEEK TASK.dll
+C:\Users\PC\Desktop\SECOND WEEK TASK\SECOND WEEK TASK\obj\Debug\net9.0\refint\SECOND WEEK TASK.dll
+C:\Users\PC\Desktop\SECOND WEEK TASK\SECOND WEEK TASK\obj\Debug\net9.0\SECOND WEEK TASK.pdb
+C:\Users\PC\Desktop\SECOND WEEK TASK\SECOND WEEK TASK\obj\Debug\net9.0\SECOND WEEK TASK.genruntimeconfig.cache
+C:\Users\PC\Desktop\SECOND WEEK TASK\SECOND WEEK TASK\obj\Debug\net9.0\ref\SECOND WEEK TASK.dll
